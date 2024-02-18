@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Prasad001824
-- 👀 I’m interested in ...
+- 👋 Hi, I’m PRASAD
+- 👀 I’m interested in ... Coding, Networks and DevOps
 - 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... Gaming Dev
 - 📫 How to reach me ... Ping: prasad001824@gmail.com
